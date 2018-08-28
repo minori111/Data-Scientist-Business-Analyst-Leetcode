@@ -22,4 +22,5 @@
 # Miscellany
 - [Any Questions for Us？](https://mp.weixin.qq.com/s/o8jjVQN_K-w0K6AysL2a9g) [Link](https://www.techrepublic.com/article/10-questions-data-scientists-should-ask-employers-during-a-job-interview/#ftag=RSS-03-10aaa0b)
 - [how to build a data science portfolio](https://mp.weixin.qq.com/s/wLm-Xh42xInxWXn1wIYL6A) [Link](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
+- [The 4 fastest ways not to get hired as a data scientist](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e)
 
