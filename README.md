@@ -25,3 +25,5 @@
 - [The 4 fastest ways not to get hired as a data scientist](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e)
 - [混数据这一行，这六件事你必须知道。](https://mp.weixin.qq.com/s/XhaYviBuJN3_TJLPVO0_Lw)
 - [What is a good data model?](https://www.quora.com/What-is-a-good-data-model)
+- [Deep Learning for Video Game Playing](https://arxiv.org/pdf/1708.07902.pdf)
+- ![](https://i.imgur.com/apGVBz3.png)
